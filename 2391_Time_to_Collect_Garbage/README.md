@@ -19,7 +19,7 @@ where,
 **Beats 55%**
 
 # Code
-```
+```java
 class Solution {
     public int garbageCollection(String[] garbage, int[] travel) {
         int glass_time = 0, metal_time = 0, paper_time = 0, travel_time = 0, glass_pos = 0, metal_pos = 0, paper_pos = 0;
@@ -68,7 +68,7 @@ where,
 
 
 # Code
-```
+```java
 class Solution {
     public int garbageCollection(String[] garbage, int[] travel) {
         int ans = 0;
